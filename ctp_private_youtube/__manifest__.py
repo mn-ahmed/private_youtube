@@ -8,7 +8,7 @@
 
 {
     'name': 'Cybernetics Disabled Click Youtube',
-    'version': '15.0.0.1.1',
+    'version': '14.0.0.1.1',
     'summary': """ 
             Elearning Disabled Click Youtube Video Link
             .""",
