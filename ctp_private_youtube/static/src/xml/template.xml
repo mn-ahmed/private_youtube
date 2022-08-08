@@ -1,0 +1,10 @@
+<templates id="template" xml:space="preserve">
+     <t t-name="website.slides.fullscreen.video">
+        <div class="player embed-responsive embed-responsive-16by9 embed-responsive-item h-100">
+            <iframe sandbox="allow-forms allow-scripts allow-pointer-lock allow-same-origin allow-top-navigation" t-att-id="'youtube-player' + widget.slide.id" t-att-src="widget.slide.embedUrl + '&amp;modestbranding=1&amp;fs=0'" frameborder="0" autoplay="1" allow="autoplay" control="0" oncontextmenu="return false;"></iframe>
+            <div class="cpy1"/>
+            <div class="cpy4"/>
+            <div class="cpy2"/>
+        </div>
+    </t>
+</templates>
